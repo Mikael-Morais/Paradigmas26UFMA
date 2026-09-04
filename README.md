@@ -30,8 +30,3 @@ Dependendo da atividade, utilizam-se linguagens como:
 
 ---
 
-## 🚀 Como Executar os Códigos
-
-1. Clone o repositório:
-   ```bash
-   git clone [https://github.com/seu-usuario/paradigmas-de-programacao.git](https://github.com/seu-usuario/paradigmas-de-programacao.git)
